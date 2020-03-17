@@ -9,3 +9,14 @@ init 3
 /bin               命令目录
 /sbin              管理命令目录
 /usr/bin/usr/sbin  系统预装的其他命令
+
+#查看根目录
+ls /
+#查看root用户家目录
+ls /root
+#查看bin
+ls /bin
+#查看sbin
+ls /sbin
+#linux关机
+init 0
