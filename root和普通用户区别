@@ -1,2 +1,11 @@
-#切换图形界面和终端
+#切换图形界面和命令行终端
 init 3
+
+#常见目录介绍
+/                  根目录
+/root              root用户的家目录
+/home/username     普通用户的家目录
+/etc               配置文件目录
+/bin               命令目录
+/sbin              管理命令目录
+/usr/bin/usr/sbin  系统预装的其他命令
